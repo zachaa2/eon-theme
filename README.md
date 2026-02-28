@@ -6,6 +6,8 @@ The color pallete is derived from the following wallpaper of the Eon Duo.
 
 ![alt text](./wallhaven-9dm39x.jpg)
 
+Arch: system themes should be placed under `~/.local/share/themes/`
+
 ## Color Pallete:
 
 `Core:`

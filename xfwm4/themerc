@@ -2,7 +2,7 @@
 # Author: Satyajit Sahoo <satyajit.happy@gmail.com>
 # License: GPL-3.0+
 
-active_text_color=#d8cab8
+active_text_color=#F8F0E1
 inactive_text_color=#aba094
 button_offset=3
 button_spacing=0

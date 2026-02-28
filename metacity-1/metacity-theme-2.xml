@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-	<name>diinki-retro-dark</name>
+	<name>eon-theme</name>
 	<author>Satyajit Sahoo</author>
 	<copyright>GPL-3.0+</copyright>
 	<date>11 December 2013</date>
@@ -9,16 +9,16 @@
 </info>
 
 <!-- ::: CONSTANTS ::: -->
-<constant name="C_titlebar_focused" value="#27232b" />
-<constant name="C_titlebar_unfocused" value="#141216" />
-<constant name="C_border_focused" value="#d8cab8" />
-<constant name="C_border_unfocused" value="#AC82E9" />
-<constant name="C_title_focused" value="#d8cab8" />
-<constant name="C_title_unfocused" value="blend/#d8cab8/#141216/0.4" />
-<constant name="C_icons_focused" value="#d8cab8" />
+<constant name="C_titlebar_focused" value="#004068" />
+<constant name="C_titlebar_unfocused" value="#001427" />
+<constant name="C_border_focused" value="#F8F0E1" />
+<constant name="C_border_unfocused" value="#52B3BC" />
+<constant name="C_title_focused" value="#F8F0E1" />
+<constant name="C_title_unfocused" value="blend/#F8F0E1/#001427/0.4" />
+<constant name="C_icons_focused" value="#F8F0E1" />
 <constant name="C_icons_focused_prelight" value="gtk:bg[SELECTED])" />
 <constant name="C_icons_focused_pressed" value="shade/gtk:bg[SELECTED]/0.8" />
-<constant name="C_icons_unfocused" value="blend/#d8cab8/#141216/0.4" />
+<constant name="C_icons_unfocused" value="blend/#F8F0E1/#001427/0.4" />
 <constant name="C_icons_unfocused_prelight" value="gtk:bg[SELECTED])" />
 <constant name="C_icons_unfocused_pressed" value="shade/gtk:bg[SELECTED]/0.8" />
 
