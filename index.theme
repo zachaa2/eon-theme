@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=eon-theme
-Comment=yo
+Name=eon_duo_edited
+Comment=A partially sexual act; when a female (of any species; mostly humanoids) rubs the ears/lobes of a male Ferengi, creating sensual emotions and chemical reactions in the male (and sometimes in the female).
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-Name=eon-theme
-GtkTheme=eon-theme
-IconTheme=eon-theme
-MetacityTheme=eon-theme
+Name=eon_duo_edited
+GtkTheme=eon_duo_edited
+IconTheme=eon_duo_edited
+MetacityTheme=eon_duo_edited
